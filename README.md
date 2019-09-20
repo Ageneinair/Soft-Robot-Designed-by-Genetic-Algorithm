@@ -2,7 +2,8 @@
 
 This repo is a genetic algorithm to generated the motion strategy and morphology of the soft robot automatically to make this soft robot move more efficiently.
 
-__**Click**__ below image you can see the result video
+__**Click**__ below image you can see the result video.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mQWBTjmMzsU/0.jpg)](https://www.youtube.com/watch?v=mQWBTjmMzsU)
 
 ## Physical Environment Validation
